@@ -27,7 +27,7 @@
     "react-scripts": "3.4.0",
     "react-window": "^1.8.5",
     "underscore": "^1.10.2",
-    "web3": "^1.2.6",
+    "web3": "^1.7.3",
     "web3modal": "^1.2.1",
     "web3x-es": "^4.0.6"
   },
